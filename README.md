@@ -20,7 +20,7 @@ limitations under the License.
 
 # Natural Logarithm of 10
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > [Natural logarithm][@stdlib/math/base/special/ln] of `10`.
 
@@ -82,7 +82,7 @@ console.log( LN10 );
 
 ## See Also
 
--   [`@stdlib/constants/float64/ln-two`][@stdlib/constants/float64/ln-two]: natural logarithm of 2.
+-   <span class="package-name">[`@stdlib/constants/float64/ln-two`][@stdlib/constants/float64/ln-two]</span><span class="delimiter">: </span><span class="description">natural logarithm of 2.</span>
 
 </section>
 
@@ -133,8 +133,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/constants-float64-ln-ten/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/constants-float64-ln-ten?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/constants-float64-ln-ten.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/constants-float64-ln-ten/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
