@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import LN10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-ten@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float64-ln-ten/tags). For example,
+
+```javascript
 import LN10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-ten@v0.1.0-esm/index.mjs';
 ```
 
@@ -72,7 +77,7 @@ var bool = ( LN10 === 2.302585092994046 );
 <body>
 <script type="module">
 
-import LN10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-ten@v0.1.0-esm/index.mjs';
+import LN10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-ten@esm/index.mjs';
 
 console.log( LN10 );
 // => 2.302585092994046
