@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import LN10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-ten@deno/mod.js';
+import LN10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-ten@v0.2.2-deno/mod.js';
 ```
 
 #### LN10
@@ -67,7 +67,7 @@ var bool = ( LN10 === 2.302585092994046 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import LN10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-ten@deno/mod.js';
+import LN10 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-ln-ten@v0.2.2-deno/mod.js';
 
 console.log( LN10 );
 // => 2.302585092994046
